@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is EEF2-13A3
+
+ Directory of C:\Users\wbha\Desktop\myGit_project
+
+18/10/2022  06:49 pm    <DIR>          .
+18/10/2022  06:49 pm    <DIR>          ..
+18/10/2022  04:40 pm               351 test.txt
+18/10/2022  06:49 pm               159 test1.txt
+               2 File(s)            510 bytes
+               2 Dir(s)  219,789,668,352 bytes free
